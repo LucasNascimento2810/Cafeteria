@@ -21,3 +21,6 @@ O foco é apresentar um layout moderno, responsivo e com forte apelo visual, des
 🔤 Explorar fontes externas e ícones personalizados
 
 💼 Desenvolver experiência com organização de projeto para portfólio
+
+![image](https://github.com/user-attachments/assets/369cdc76-00ee-4e83-84b9-6d97da69d15f)
+
