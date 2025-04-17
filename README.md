@@ -1,20 +1,23 @@
 ☕ Manhattan - Coffee House
-Este é um projeto de site institucional para uma cafeteria fictícia chamada Manhattan - Coffee House. O objetivo foi criar uma página moderna, responsiva e visualmente agradável, destacando os principais produtos, serviços e a identidade da marca.
+Projeto de site institucional para uma cafeteria fictícia chamada Manhattan - Coffee House.
+O foco é apresentar um layout moderno, responsivo e com forte apelo visual, destacando os produtos, serviços e a identidade da marca.
 
-🚀 Tecnologias utilizadas
-HTML5
+🚀 Tecnologias Utilizadas
+✅ HTML5
 
-CSS3
+✅ CSS3
 
-Google Fonts
+✅ Google Fonts
 
-Responsividade para mobile
+✅ Responsividade para Mobile
 
-🎯 Objetivos do projeto
-Praticar estruturação de páginas com HTML e estilização com CSS
+🎯 Objetivos do Projeto
+🔧 Praticar estruturação semântica com HTML
 
-Criar um layout moderno e funcional
+🎨 Trabalhar estilização com CSS puro
 
-Explorar o uso de fontes externas e ícones personalizados
+🌐 Aplicar responsividade para diferentes dispositivos
 
-Desenvolver experiência com organização de projeto para portfólio
+🔤 Explorar fontes externas e ícones personalizados
+
+💼 Desenvolver experiência com organização de projeto para portfólio
