@@ -3,6 +3,7 @@ Projeto de site institucional para uma cafeteria fictícia chamada Manhattan - C
 O foco é apresentar um layout moderno, responsivo e com forte apelo visual, destacando os produtos, serviços e a identidade da marca.
 
 🚀 Tecnologias Utilizadas
+
 ✅ HTML5
 
 ✅ CSS3
