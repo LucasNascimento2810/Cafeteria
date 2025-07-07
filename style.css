@@ -213,16 +213,16 @@
     list-style: none;
 }
 
-.lista-horarios li { /* tag <li> */
+.lista-horarios li { 
     position: relative;
 }
 
-.lista-horarios li h3 { /* subtitulo = <h3> */
+.lista-horarios li h3 { 
     margin-bottom: 20px;
     color: #fff;
 }
 
-.lista-horarios li div { /* tarja = <div> */
+.lista-horarios li div { 
     width: 70%;
     height: 1px;
     position: absolute;
@@ -234,7 +234,7 @@
 }
 
 .lista-horarios li p,
-.texto-marrom { /* paragrafo + span*/
+.texto-marrom { 
     position: absolute;
     top: 0;
     right: 0;
